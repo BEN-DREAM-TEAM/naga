@@ -1,6 +1,6 @@
 {
-  "name": "NAGA Transport",
-  "short_name": "NAGA Transport",
+  "name": "NAGA",
+  "short_name": "NAGA",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
